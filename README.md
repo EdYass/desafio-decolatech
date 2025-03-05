@@ -14,7 +14,7 @@ Uma API para criação, gerenciamento e execução de quizzes educativos, onde u
 
 ✅ Railway (Deploy)
 
-## 🎯 Funcionalidades principais:
+## 🎯 Todas as Features que serão desenvolvidas:
 - Cadastro de usuários (estudantes/professores).
 - CRUD de quizzes e perguntas (por categorias, níveis de dificuldade).
 - Registro de respostas e cálculo de pontuação.
@@ -100,3 +100,7 @@ Uma API para criação, gerenciamento e execução de quizzes educativos, onde u
       Resposta "1" --> "1" Pergunta : refere-se
       Resposta "1" --> "1" Alternativa : seleciona
 ````
+## Features Presentes até o momento:
+- Cadastro de usuários (estudantes/professores). ✅
+- CRUD de quizzes e perguntas (por categorias, níveis de dificuldade). ✅
+
